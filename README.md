@@ -2,4 +2,4 @@
 collective code for my socket programming topic
 
 ### Why?
--- for fun.
+-for fun.
